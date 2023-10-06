@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Castoro+Titling&family=Climate+Crisis&family=Dancing+Script:wght@400;600&family=Dosis:wght@500;600&family=EB+Garamond:ital@1&family=Explora&family=Inspiration&family=Lora:ital@0;1&family=Martian+Mono:wght@500&family=Oswald:wght@200&family=Oxygen:wght@300&family=PT+Sans+Narrow&family=PT+Serif:ital@0;1&family=Pacifico&family=Parisienne&family=Playfair+Display&family=Righteous&family=Roboto+Mono:ital,wght@0,300;1,200&family=Roboto:ital,wght@1,300&family=Satisfy&family=Seymour+One&family=Tilt+Neon&family=Tilt+Prism&family=Vina+Sans&family=Ysabeau+SC:wght@300&display=swap');
+
+body{
+    font-family: 'Dosis', sans-serif;
+}
